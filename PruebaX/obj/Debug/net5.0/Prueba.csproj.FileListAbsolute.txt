@@ -1,0 +1,16 @@
+C:\Users\cfcastillol\source\repos\Prueba\Prueba\bin\Debug\net5.0\Prueba.exe
+C:\Users\cfcastillol\source\repos\Prueba\Prueba\bin\Debug\net5.0\Prueba.deps.json
+C:\Users\cfcastillol\source\repos\Prueba\Prueba\bin\Debug\net5.0\Prueba.runtimeconfig.json
+C:\Users\cfcastillol\source\repos\Prueba\Prueba\bin\Debug\net5.0\Prueba.runtimeconfig.dev.json
+C:\Users\cfcastillol\source\repos\Prueba\Prueba\bin\Debug\net5.0\Prueba.dll
+C:\Users\cfcastillol\source\repos\Prueba\Prueba\bin\Debug\net5.0\ref\Prueba.dll
+C:\Users\cfcastillol\source\repos\Prueba\Prueba\bin\Debug\net5.0\Prueba.pdb
+C:\Users\cfcastillol\source\repos\Prueba\Prueba\obj\Debug\net5.0\Prueba.csprojAssemblyReference.cache
+C:\Users\cfcastillol\source\repos\Prueba\Prueba\obj\Debug\net5.0\Prueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cfcastillol\source\repos\Prueba\Prueba\obj\Debug\net5.0\Prueba.AssemblyInfoInputs.cache
+C:\Users\cfcastillol\source\repos\Prueba\Prueba\obj\Debug\net5.0\Prueba.AssemblyInfo.cs
+C:\Users\cfcastillol\source\repos\Prueba\Prueba\obj\Debug\net5.0\Prueba.csproj.CoreCompileInputs.cache
+C:\Users\cfcastillol\source\repos\Prueba\Prueba\obj\Debug\net5.0\Prueba.dll
+C:\Users\cfcastillol\source\repos\Prueba\Prueba\obj\Debug\net5.0\ref\Prueba.dll
+C:\Users\cfcastillol\source\repos\Prueba\Prueba\obj\Debug\net5.0\Prueba.pdb
+C:\Users\cfcastillol\source\repos\Prueba\Prueba\obj\Debug\net5.0\Prueba.genruntimeconfig.cache
